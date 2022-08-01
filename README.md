@@ -1,8 +1,9 @@
-Coffee Facts!
+# *Coffee Facts!*
 
-A Demonstration of HTML/CSS based on a coder's favorite beverage
+## *A Demonstration of HTML/CSS based on a coder's favorite beverage*
 
-Flexbox:
+### *Flexbox:*
+<p>
 As a developer, you cannot expect that the people using your site are
 looking at it on a desktop computer. It's just as likely that they'll be
 using a phone or a tablet—both of which have different dimensions than 
@@ -12,14 +13,19 @@ Flexbox provides a robust set of tools for developers to solve common
 layout problems, including the problem of building for various screen sizes.
 When web pages align content properly, the layouts tend to be much easier 
 to read.
+</p>
 
-Media Queries:
+### *Media Queries:*
+<p>
 Media queries are a CSS feature that allows content to adapt to
 different screen sizes, such as mobile and desktop screens. With
 a simple media query, you can easily modify a website's appearance 
 on different devices.
+</p>
 
-Progressive Enhancement (Mobile-First Development):
+### *Progressive Enhancement (Mobile-First Development):*
+<p>
 A mobile-first approach that involves designing for the smallest screen first,
 then progressively adding features and rearranging the layout to take advantage 
 of larger screen sizes
+</p>
